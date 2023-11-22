@@ -17,7 +17,7 @@ export default function Header() {
         <header className="flex mt-5 items-center mx-4 lg:mx-0 justify-between">
           <div className="flex items-center">
             <Image
-              src={'/img/icon.png'}
+              src={'/img/Logo.png'}
               alt="ola"
               width={56}
               height={12}
