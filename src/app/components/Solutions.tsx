@@ -4,7 +4,7 @@ export default function Solutions() {
   return (
     <div className="bg-blue-900 w-full max-w-full lg:h-[600px] pb-12">
       <div>
-        <div className="grid lg:grid-cols-2 ml-3" >
+        <div className="grid lg:grid-cols-2 grid-cols-1 ml-3" >
           <div className="mt-20 ">
             <Image
               src={'/img/laptop.jpg'}
