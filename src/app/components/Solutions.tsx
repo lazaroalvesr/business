@@ -3,14 +3,14 @@ import Image from "next/image";
 export default function Solutions() {
   return (
     <div className="bg-blue-900 w-full lg:h-[600px] pb-12">
-      <div className="grid lg:grid-cols-2 ml-3" >
+      <div className="grid lg:grid-cols-2 " >
         <div className="mt-20 ">
           <Image
             src={'/img/laptop.jpg'}
             alt="ola"
             width={462}
             height={12}
-            className="rounded-3xl lg:w-[462px]  w-[340px]"
+            className="rounded-3xl lg:w-[462px] w-[340px]"
           />
         </div>
         <div className="mt-20">
