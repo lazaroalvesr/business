@@ -28,7 +28,7 @@ export default function Solutions() {
               <ul>
 
                 <li className="flex pb-3 text-gray-100 items-center">
-                  <div className="flex items-center justify-center mr-8
+                  <div className="flex items-center justify-center lg:mr-8
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 ">
                     <span className="w-2 h-20 lg:h-8 bg-blue-800/80 mt-14"></span>
@@ -40,7 +40,7 @@ export default function Solutions() {
                 </li>
 
                 <li className="flex pb-3 text-gray-100 items-center">
-                  <div className="flex items-center justify-center mr-8
+                  <div className="flex items-center justify-center lg:mr-8
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 ">
                     <span className="w-2  h-20 lg:h-8 bg-blue-800/80 mt-14"></span>
@@ -52,7 +52,7 @@ export default function Solutions() {
                 </li>
 
                 <li className="flex pb-3 text-gray-100 items-center">
-                  <div className="flex items-center justify-center mr-8
+                  <div className="flex items-center justify-center lg:mr-8
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 ">
                     <span className="w-2  h-20 lg:h-8 bg-blue-800/80 mt-14"></span>
@@ -64,7 +64,7 @@ export default function Solutions() {
                 </li>
 
                 <li className="flex pb-9 text-gray-100 items-center">
-                  <div className="flex items-center justify-center mr-8
+                  <div className="flex items-center justify-center lg:mr-8
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 "><span>4</span></div>
                   <div>
