@@ -2,11 +2,11 @@ import Image from "next/image";
 
 export default function BestService() {
   return (
-    <div className="lg:max-w-7xl m-auto mt-24 mb-32">
+    <div className="max-w-7xl m-auto mt-24 mb-32">
       <h1 className=" 
         text-3xl text-gray-900 text-center">
         Oferecemos o melhor serviço</h1>
-      <div className="grid lg:grid-cols-4 grid-cols-1 mt-14  gap-8 lg:gap-0">
+      <div className="grid lg:grid-cols-4 justify-center mt-14  gap-8 lg:gap-0">
         <div className="  w-64 h-72 border-b-4 bg-gray-50 border-blue-800 rounded-md">
           <div className="ml-4 mt-10">
             <div>

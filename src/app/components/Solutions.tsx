@@ -2,10 +2,9 @@ import Image from "next/image";
 
 export default function Solutions() {
   return (
-    <div className=" ">
-      <div className="bg-blue-900 w-full min-h-screen">
-        <h1 className="pb-12">pao</h1>
-        {/* <div className="grid lg:grid-cols-2 grid-cols-1 ml-3" >
+    <div className=" bg-blue-900 w-full">
+      <div className="">
+        <div className="grid lg:grid-cols-2 grid-cols-1 ml-3" >
           <div className="mt-20 ">
             <Image
               src={'/img/laptop.jpg'}
@@ -86,7 +85,7 @@ export default function Solutions() {
               >Consulte Mais informação</button>
             </div>
           </div>
-        </div> */}
+        </div>
       </div>
     </div>
   )

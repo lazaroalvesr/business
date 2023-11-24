@@ -5,8 +5,8 @@ import Solutions from "./components/Solutions";
 export default function Home() {
   return (
     <>
-      <Main />
-      <BestService />
+      {/* <Main /> */}
+      {/* <BestService /> */}
       <Solutions />
     </>
   )
