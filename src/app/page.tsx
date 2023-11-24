@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div>
       <Main />
-      <BestService />
       <Solutions />
+      <BestService />
     </div>
   )
 }
