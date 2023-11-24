@@ -11,7 +11,7 @@ export default function Solutions() {
               alt="ola"
               width={462}
               height={12}
-              className="rounded-3xl lg:w-[462px] "
+              className="rounded-3xl w-[380px] lg:w-[462px] "
             />
           </div>
           <div className="mt-20">
