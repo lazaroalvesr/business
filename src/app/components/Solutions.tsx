@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function Solutions() {
   return (
-    <div className="bg-blue-900 lg:w-full m-auto">
-      <div>
+    <div className=" :w-full m-auto">
+      <div className="bg-blue-900">
         <h1 className="pb-12">pao</h1>
         {/* <div className="grid lg:grid-cols-2 grid-cols-1 ml-3" >
           <div className="mt-20 ">
