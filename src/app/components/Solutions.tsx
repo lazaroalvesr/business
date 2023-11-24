@@ -11,10 +11,10 @@ export default function Solutions() {
               alt="ola"
               width={462}
               height={12}
-              className="rounded-3xl w-[320px] lg:w-[462px] "
+              className="rounded-3xl w-[330px] lg:w-[462px] "
             />
           </div>
-          <div className="mt-20">
+          <div className="mt-20 ml-4 lg:ml-0">
             <h1 className="text-gray-50 text-2xl">Soluções Simples</h1>
             <p className="text-gray-400 lg:w-[600px] py-5">Lorem ipsum dolor sit amet
               consectetur adipisicing elit.
@@ -26,9 +26,8 @@ export default function Solutions() {
               ipsam mollitia!</p>
             <div>
               <ul>
-
                 <li className="flex pb-3 text-gray-100 items-center">
-                  <div className="flex items-center justify-center lg:mr-8
+                  <div className="flex items-center justify-center mr-8 lg:-mt-0 -mt-9
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 ">
                     <span className="w-2 h-20 lg:h-8 bg-blue-800/80 mt-14"></span>
@@ -39,8 +38,8 @@ export default function Solutions() {
                   </div>
                 </li>
 
-                <li className="flex pb-3 text-gray-100 items-center">
-                  <div className="flex items-center justify-center lg:mr-8
+                <li className="flex pb-3 text-gray-100 items-center ">
+                  <div className="flex items-center justify-center mr-8 lg:-mt-0 -mt-9
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 ">
                     <span className="w-2  h-20 lg:h-8 bg-blue-800/80 mt-14"></span>
@@ -52,7 +51,7 @@ export default function Solutions() {
                 </li>
 
                 <li className="flex pb-3 text-gray-100 items-center">
-                  <div className="flex items-center justify-center lg:mr-8
+                  <div className="flex items-center justify-center mr-8 lg:-mt-0 -mt-9
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 ">
                     <span className="w-2  h-20 lg:h-8 bg-blue-800/80 mt-14"></span>
@@ -64,7 +63,7 @@ export default function Solutions() {
                 </li>
 
                 <li className="flex pb-9 text-gray-100 items-center">
-                  <div className="flex items-center justify-center lg:mr-8
+                  <div className="flex items-center justify-center mr-8 lg:-mt-0 -mt-9
                 w-8 h-8 text-lg bg-blue-800/80 rounded-full
                 "><span>4</span></div>
                   <div>
