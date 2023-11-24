@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Solutions() {
   return (
-    <div className=" bg-blue-900 w-full">
+    <div className=" bg-blue-900 w-full lg:h-[580px] pb-32">
       <div className="">
         <div className="grid lg:grid-cols-2 grid-cols-1 ml-3" >
           <div className="mt-20 ">
@@ -73,7 +73,7 @@ export default function Solutions() {
                 </li>
               </ul>
             </div>
-            <div className="flex lg:flex-row flex-col items-center gap-4">
+            <div className="flex lg:flex-row flex-col items-center gap-4 mr-5 lg:mr-0">
               <button className="
             bg-gray-50 text-blue-900 py-2 px-12 w-44 rounded-md
             ">Iniciar </button>
