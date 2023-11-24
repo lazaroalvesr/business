@@ -4,10 +4,10 @@ import Solutions from "./components/Solutions";
 
 export default function Home() {
   return (
-    <div>
+    <>
       <Main />
       <Solutions />
       <BestService />
-    </div>
+    </>
   )
 }
