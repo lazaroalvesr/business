@@ -4,7 +4,7 @@ export default function Solutions() {
   return (
     <div className="bg-blue-900 max-w-full m-auto lg:h-[600px] pb-12">
       <div>
-        <div className="grid lg:grid-cols-2 grid-cols-1 ml-3" >
+        {/* <div className="grid lg:grid-cols-2 grid-cols-1 ml-3" >
           <div className="mt-20 ">
             <Image
               src={'/img/laptop.jpg'}
@@ -85,7 +85,7 @@ export default function Solutions() {
               >Consulte Mais informação</button>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   )
