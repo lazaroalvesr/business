@@ -22,7 +22,7 @@ export default function Main() {
           alt="Foto"
           width={300}
           height={12}
-          className="lg:w-[500px] rounded-md w-[380px] ml-3 lg:ml-0"
+          className="lg:w-[500px] rounded-md w-[380px] ml-4 lg:ml-0"
         />
       </div>
     </div>
