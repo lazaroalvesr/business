@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Main() {
   return (
-    <div className="max-w-7xl 
+    <div className="lg:max-w-7xl 
     m-auto lg:flex-row flex-col lg:mt-32 mt-16 mb-12 
     justify-between flex">
       <div className="pl-4 lg:pl-0 pb-6 lg:pb-0">
@@ -16,13 +16,13 @@ export default function Main() {
         </p>
         <button className="bg-blue-800 text-gray-50 py-2 px-12 rounded-md mt-4">Comece Agora</button>
       </div>
-      <div className="">
+      <div>
         <Image
           src={'/img/scrum.jpg'}
           alt="Foto"
           width={300}
           height={12}
-          className="lg:w-[500px] rounded-md w-[380px] ml-4 lg:ml-0"
+          className="lg:w-[500px] rounded-md w-[380px] ml-3 lg:ml-0"
         />
       </div>
     </div>

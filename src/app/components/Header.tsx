@@ -13,7 +13,7 @@ export default function Header() {
 
   return (
     <div>
-      <div className="max-w-7xl m-auto">
+      <div className="lg:max-w-7xl m-auto">
         <header className="flex mt-5 items-center mx-4 lg:mx-0 justify-between">
           <div className="flex items-center">
             <Image

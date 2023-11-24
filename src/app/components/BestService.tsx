@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function BestService() {
   return (
-    <div className="max-w-7xl m-auto mt-24 mb-32">
+    <div className="lg:max-w-7xl m-auto mt-24 mb-32">
       <h1 className="
         text-3xl text-gray-900 text-center">
         Oferecemos o melhor serviço</h1>
