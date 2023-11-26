@@ -6,7 +6,7 @@ export default function Agencia() {
       <div className="max-w-7xl flex-col-reverse mt-20 lg:mt-32 justify-around items-center lg:flex-row flex m-auto">
         <div>
           <div className="ml-4 lg:ml-0">
-            <h1 className="font-bold text-3xl pb-7">Sua Agencia</h1>
+            <h1 className="font-bold text-3xl pb-7">Nossa Agência</h1>
             <p className="lg:w-[600px] pb-7 text-gray-400">Lorem ipsum dolor sit
               amet consectetur adipisicing elit.
               Perspiciatis quis ducimus aperiam
