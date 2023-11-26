@@ -12,7 +12,7 @@ export default function Avaliacao() {
         <div className="m-auto">
           <h1 className="text-3xl font-bold lg:w-full w-56 text-center ">O que os Clientes Dizem</h1>
         </div>
-        <div  className="hidden lg:block">
+        <div className="hidden lg:block">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
             <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
           </svg>
@@ -20,8 +20,8 @@ export default function Avaliacao() {
       </div>
       <div className="flex flex-col lg:flex-row gap-4 pt-14 relative justify-center">
         <div className="hidden lg:block bg-gray-50 w-44 h-56 absolute -left-36 rounded-md"></div>
-        <div className="bg-gray-50 w-96 h-64 rounded-md ">
-          <div className="lg:ml-12 ml-8 mt-12">
+        <div className="bg-gray-50 w-[343px] ml-2 lg:ml-0 lg:w-96 h-64 rounded-md ">
+          <div className="lg:ml-12 ml-6 mt-12">
             <div className="flex items-center">
               <Image
                 src={'/img/avatar_1.png'}
@@ -48,7 +48,7 @@ export default function Avaliacao() {
                 cum veniam quia mollitia consequatur. </p>
             </div>
           </div>
-          <div className="lg:-ml-7 -ml-10">
+          <div className="lg:-ml-7 -ml-14">
             <Image
               src={'/img/avaliacao.png'}
               alt="avaliacao"
@@ -57,8 +57,8 @@ export default function Avaliacao() {
             />
           </div>
         </div>
-        <div className="bg-gray-50 w-96 h-64 rounded-md ">
-          <div className="lg:ml-12 ml-8 mt-12">
+        <div className="bg-gray-50  w-[343px] ml-2 lg:ml-0 lg:w-96 h-64 rounded-md ">
+          <div className="lg:ml-12 ml-6 mt-12">
             <div className="flex items-center">
               <Image
                 src={'/img/avatar_2.png'}
@@ -85,7 +85,7 @@ export default function Avaliacao() {
                 cum veniam quia mollitia consequatur. </p>
             </div>
           </div>
-          <div className="lg:-ml-7 -ml-10">
+          <div className="lg:-ml-7 -ml-14">
             <Image
               src={'/img/avaliacao.png'}
               alt="avaliacao"
@@ -94,8 +94,8 @@ export default function Avaliacao() {
             />
           </div>
         </div>
-        <div className="bg-gray-50 w-96 h-64 rounded-md ">
-          <div className="lg:ml-12 ml-8 mt-12">
+        <div className="bg-gray-50  w-[343px] ml-2 lg:ml-0 lg:w-96 h-64 rounded-md ">
+          <div className="lg:ml-12 ml-6 mt-12">
             <div className="flex items-center">
               <Image
                 src={'/img/avatar_3.png'}
@@ -122,7 +122,7 @@ export default function Avaliacao() {
                 cum veniam quia mollitia consequatur. </p>
             </div>
           </div>
-          <div className="lg:-ml-7 -ml-10">
+          <div className="lg:-ml-7 -ml-14">
             <Image
               src={'/img/avaliacao.png'}
               alt="avaliacao"
