@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Footer() {
   return (
     <div className="relative">
-      <div className="bg-blue-500 max-w-7xl lg:justify-between h-32 lg:w-[1180px] w-[340px] ml-2 -top-16 lg:left-44 absolute flex lg:flex-row flex-col rounded-md items-center m-auto">
+      <div className="bg-blue-500 max-w-7xl lg:justify-between h-32 lg:w-[1180px] w-[360px] ml-2 -top-16 lg:left-44 absolute flex lg:flex-row flex-col rounded-md items-center m-auto">
         <h1 className="text-3xl text-gray-50 lg:pl-6 pl-2 pt-4">Pronto para começar ?</h1>
         <button className=" mt-4 mr-6
             bg-gray-50 text-blue-900 py-2 px-12 w-56 rounded-md
