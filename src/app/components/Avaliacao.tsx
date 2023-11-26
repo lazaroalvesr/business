@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Avaliacao() {
   return (
-    <div className="max-w-7xl m-auto pt-12 pb-32">
+    <div className="max-w-7xl m-auto pt-12 pb-16">
       <div className="flex justify-between">
         <div className="hidden lg:block">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
@@ -19,7 +19,7 @@ export default function Avaliacao() {
         </div>
       </div>
       <div className="flex flex-col lg:flex-row gap-4 pt-14 relative justify-center">
-        <div className="hidden lg:block bg-gray-50 w-44 h-56 absolute -left-36 rounded-md"></div>
+        <div className="hidden lg:block bg-gray-50 w-44 h-64 absolute -left-36 rounded-md"></div>
         <div className="bg-gray-50 w-[343px] ml-2 lg:ml-0 lg:w-96 h-64 rounded-md ">
           <div className="lg:ml-12 ml-6 mt-12">
             <div className="flex items-center">
@@ -131,7 +131,7 @@ export default function Avaliacao() {
             />
           </div>
         </div>
-        <div className="hidden lg:block bg-gray-50 w-36 h-56 absolute -right-28 rounded-md"></div>
+        <div className="hidden lg:block bg-gray-50 w-36 h-64 absolute -right-28 rounded-md"></div>
       </div>
     </div>
   )
